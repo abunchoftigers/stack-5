@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "assignments",
+			"path": ".."
+		}
+	],
+  "settings": {
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic"
+  }
+}
