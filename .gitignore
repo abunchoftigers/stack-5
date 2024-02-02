@@ -2,7 +2,7 @@
 /**/*.code-workspace
 /*/templates/*
 /data/**/*
-# /*.ipynb
+
 
 
 # Python stuff
